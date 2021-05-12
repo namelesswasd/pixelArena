@@ -1,0 +1,1 @@
+waveLast = global.wave;
